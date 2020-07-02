@@ -1,0 +1,3 @@
+[0417/111749.465:ERROR:settings.cc(320)] Settings magic is not 1129342067
+[0420/180605.401:ERROR:process_reader_win.cc(151)] SuspendThread: Adgang nægtet. (0x5)
+[0420/180605.402:ERROR:exception_snapshot_win.cc(98)] thread ID 13708 not found in process

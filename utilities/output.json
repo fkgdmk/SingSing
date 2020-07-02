@@ -1,0 +1,814 @@
+[
+    {
+        "": "",
+        "partOne": "Don''t go chasing waterfalls Please stick to the rivers and the lakes that you''re used to",
+        "partTwo": "I know that you''re gonna have it your way or nothing at all But I think you''re moving too fast",
+        "title": "WATERFALLS",
+        "artist": "TLC"
+    },
+    {
+        "": "",
+        "partOne": "Det a knas, själar I förorten tar mig under",
+        "partTwo": "Inga lugna stunder, för många pundar-under",
+        "title": "DE E KNAS",
+        "artist": "The Latin Kings"
+    },
+    {
+        "": "",
+        "partOne": "And then a hero comes along With the strength to carry on",
+        "partTwo": "And you cast your fears aside And you know you can survive",
+        "title": "HERO",
+        "artist": "Mariah Carey"
+    },
+    {
+        "": "",
+        "partOne": "Ready or not, here I come, you can''t hide",
+        "partTwo": "Gonna find you and take it slowly",
+        "title": "READY OR NOT",
+        "artist": "Fugees"
+    },
+    {
+        "": "",
+        "partOne": "I want your ugly, I want your disease I want your everything as long as it''s free",
+        "partTwo": "I want your love Love, love, love, I want your love",
+        "title": "BAD ROMANCE",
+        "artist": "Lady Gaga"
+    },
+    {
+        "": "",
+        "partOne": "It''s getting hot in herre So take off all your clothes",
+        "partTwo": "I am - getting so hot I wanna take my clothes off",
+        "title": "HOT IN HERRE",
+        "artist": "Nelly"
+    },
+    {
+        "": "",
+        "partOne": "Whatever I said, whatever I did I didn''t mean it",
+        "partTwo": "I just want you back for good",
+        "title": "BACK FOR GOOD",
+        "artist": "Take That"
+    },
+    {
+        "": "",
+        "partOne": "Cause tonight for the first time Just about half-past ten",
+        "partTwo": "For the first time in history It''s gonna start raining men",
+        "title": "IT''S RAINING MEN",
+        "artist": "The Weather Girls"
+    },
+    {
+        "": "",
+        "partOne": "I''m like a bird I''ll only fly away",
+        "partTwo": "I don''t know where my soul is I don''t know where my home is",
+        "title": "I''M LIKE A BIRD",
+        "artist": "Nelly Furtado"
+    },
+    {
+        "": "",
+        "partOne": "Today is gonna be the day That they''re gonna throw it back to you",
+        "partTwo": "By now, you should have somehow Realised what you gotta do",
+        "title": "WONDERWALL",
+        "artist": "Oasis"
+    },
+    {
+        "": "",
+        "partOne": "Because the night belongs to lovers Because the night belongs to lust",
+        "partTwo": "Because the night belongs to lovers Because the night belongs to us",
+        "title": "BECAUSE THE NIGHT",
+        "artist": "Patti Smith"
+    },
+    {
+        "": "",
+        "partOne": "If you wanna be my lover, you gotta get with my friends",
+        "partTwo": "Make it last forever friendship never ends",
+        "title": "WANNABE",
+        "artist": "Spice Girls"
+    },
+    {
+        "": "",
+        "partOne": "Hey now you''re an All Star, get your game on, go play",
+        "partTwo": "Hey now you''re a Rock Star, get the show on, get paid",
+        "title": "ALL STAR",
+        "artist": "Smash Mouth"
+    },
+    {
+        "": "",
+        "partOne": "I see the bad moon a-rising",
+        "partTwo": "I see trouble on the way",
+        "title": "BAD MOON RISING",
+        "artist": "Creedence Clearwater Revival"
+    },
+    {
+        "": "",
+        "partOne": "It''s been seven hours and fifteen days Since you took your love away",
+        "partTwo": "I go out every night and sleep all day Since you took your love away",
+        "title": "NOTHING COMPARES 2 U",
+        "artist": "Sinead O''''Connor"
+    },
+    {
+        "": "",
+        "partOne": "I''m gonna swing from the chandelier From the chandelier",
+        "partTwo": "I''m gonna live like tomorrow doesn''t exist Like it doesn''t exist",
+        "title": "CHANDELIER",
+        "artist": "Sia"
+    },
+    {
+        "": "",
+        "partOne": "I''m on tonight, you know my hips don''t lie And I''m starting to feel it''s right",
+        "partTwo": "All the attraction, the tension Don''t you see baby, this is perfection",
+        "title": "HIPS DON''T LIE",
+        "artist": "Shakira"
+    },
+    {
+        "": "",
+        "partOne": "You''re way too beautiful, girl That''s why it''ll never work",
+        "partTwo": "You''ll have me suicidal, suicidal When you say it''s over",
+        "title": "BEAUTIFUL GIRLS",
+        "artist": "Sean Kingston"
+    },
+    {
+        "": "",
+        "partOne": "But did you know that when it snows",
+        "partTwo": "My eyes become large and The light that you shine can be seen?",
+        "title": "KISS FROM A ROSE",
+        "artist": "Seal"
+    },
+    {
+        "": "",
+        "partOne": "I''ll be your dream, I''ll be your wish I''ll be your fantasy",
+        "partTwo": "I''ll be your hope, I''ll be your love Be everything that you need",
+        "title": "TRULY MADLY DEEPLY",
+        "artist": "Savage Garden"
+    },
+    {
+        "": "",
+        "partOne": "With or Without you",
+        "partTwo": "I can''t live, with or without you",
+        "title": "WITH OR WITHOUT YOU",
+        "artist": "U2"
+    },
+    {
+        "": "",
+        "partOne": "Hold the line",
+        "partTwo": "Love isn''t always on time",
+        "title": "HOLD THE LINE",
+        "artist": "Toto"
+    },
+    {
+        "": "",
+        "partOne": "I''m so excited, and I just can''t hide it",
+        "partTwo": "I''m about to lose control and I think I like it",
+        "title": "I''M SO EXCITED",
+        "artist": "The Pointer Sisters"
+    },
+    {
+        "": "",
+        "partOne": "Roxanne",
+        "partTwo": "You don''t have to put on the red light",
+        "title": "ROXANNE",
+        "artist": "The Police"
+    },
+    {
+        "": "",
+        "partOne": "Near, far, wherever you are I believe that the heart does go on",
+        "partTwo": "Once more you open the door And you''re here in my heart And my heart will go on and on",
+        "title": "MY HEART WILL GO ON",
+        "artist": "Celine Dion"
+    },
+    {
+        "": "",
+        "partOne": "Un-break my heart Say you''ll love me again",
+        "partTwo": "Undo this hurt you caused When you walked out the door And walked out of my life",
+        "title": "UN-BREAK MY HEART",
+        "artist": "Toni Braxton"
+    },
+    {
+        "": "",
+        "partOne": "You had (you had) your chance (your chance) And you lost a good man (good man)",
+        "partTwo": "I know (I know) its sad (its sad) Thinking ''bout what you had",
+        "title": "DON''T MESS WITH MY MAN",
+        "artist": "Lucy Pearl"
+    },
+    {
+        "": "",
+        "partOne": "Despacito Quiero respirar tu cuello despacito",
+        "partTwo": "Deja que te diga cosas al oido Para que te acuerdes si no estas conmigo",
+        "title": "DESPACITO",
+        "artist": "Luis Fonsi feat. Daddy Yankee"
+    },
+    {
+        "": "",
+        "partOne": "You better lose yourself in the music The moment, you own it, you better never let it go",
+        "partTwo": "You only get one shot, do not miss your chance to blow",
+        "title": "LOSE YOURSELF",
+        "artist": "Eminem"
+    },
+    {
+        "": "",
+        "partOne": "All the leaves are brown And the sky is gray",
+        "partTwo": "I''ve been for a walk On a winter''s day",
+        "title": "CALIFORNIA DREAMIN''",
+        "artist": "The Mamas & the Papas"
+    },
+    {
+        "": "",
+        "partOne": "I wonder how, I wonder why Yesterday you told me ''bout the blue, blue sky",
+        "partTwo": "And all that I can see is just a yellow lemon tree",
+        "title": "LEMON TREE",
+        "artist": "Fools Garden"
+    },
+    {
+        "": "",
+        "partOne": "I want to know what love is",
+        "partTwo": "I want you to show me",
+        "title": "I WANT TO KNOW WHAT LOVE IS",
+        "artist": "Foreigner"
+    },
+    {
+        "": "",
+        "partOne": "I want to live like common people I want to do whatever common people do",
+        "partTwo": "I want to sleep with common people I want sleep with common people like you",
+        "title": "COMMON PEOPLE",
+        "artist": "Pulp"
+    },
+    {
+        "": "",
+        "partOne": "Take me to the magic of the moment On a glory night",
+        "partTwo": "Where the children of tomorrow dream away In the wind of change",
+        "title": "WIND OF CHANGE",
+        "artist": "Scorpions"
+    },
+    {
+        "": "",
+        "partOne": "Rollin'' down the street, smokin'' indo Sippin'' on gin and juice, laid back",
+        "partTwo": "With my mind on my money And my money on my mind",
+        "title": "GIN AND JUICE",
+        "artist": "Snoop Dogg feat. Dat Nigga Daz"
+    },
+    {
+        "": "",
+        "partOne": "If you''re havin'' girl problems, I feel bad for you, son",
+        "partTwo": "I got 99 problems, but a bitch ain''t one",
+        "title": "99 PROBLEMS",
+        "artist": "JAY-Z"
+    },
+    {
+        "": "",
+        "partOne": "Sometimes I feel I''ve got to Run away",
+        "partTwo": "I''ve got to Get away",
+        "title": "Tainted Love",
+        "artist": "Soft Cell"
+    },
+    {
+        "": "",
+        "partOne": "Yeah, you can say what you want But it won''t change my mind I''ll feel the same about you",
+        "partTwo": "And you can tell me your reasons But it won''t change my feelings I''ll feel the same about you",
+        "title": "SAY WHAT YOU WANT",
+        "artist": "Texas"
+    },
+    {
+        "": "",
+        "partOne": "Love me, love me Say that you love me",
+        "partTwo": "Fool me, fool me Go on and fool me",
+        "title": "LOVEFOOL",
+        "artist": "The Cardigans"
+    },
+    {
+        "": "",
+        "partOne": "I''ll make love to you Like you want me to",
+        "partTwo": "And I''ll hold you tight Baby all through the night",
+        "title": "I''LL MAKE LOVE TO YOU",
+        "artist": "Boyz ll Men"
+    },
+    {
+        "": "",
+        "partOne": "And I don''t want the world to see me ''cause I don''t think that they''d understand",
+        "partTwo": "When everything''s made to be broken I just want you to know who I am",
+        "title": "IRIS",
+        "artist": "The Goo Goo Dolls"
+    },
+    {
+        "": "",
+        "partOne": "If you leave me now, you''ll take away the biggest part of me",
+        "partTwo": "Oooo no, baby please don''t go",
+        "title": "IF YOU LEAVE ME NOW",
+        "artist": "Chicago"
+    },
+    {
+        "": "",
+        "partOne": "This love has taken its toll on me",
+        "partTwo": "She said goodbye too many times before",
+        "title": "THIS LOVE",
+        "artist": "Maroon 5"
+    },
+    {
+        "": "",
+        "partOne": "Look into my eyes, can''t you see they''re open wide?",
+        "partTwo": "Would I lie to you, baby, Would I lie to you?",
+        "title": "WOULD I LIE TO YOU",
+        "artist": "Charles & Eddie"
+    },
+    {
+        "": "",
+        "partOne": "Baby, if give it to me, I''ll give it to you",
+        "partTwo": "I know what you want, you know I got it",
+        "title": "I KNOW WHAT YOU WANT",
+        "artist": "Busta Rhymes feat. Mariah Carey & Flipmode Squad"
+    },
+    {
+        "": "",
+        "partOne": "Dancing in the moonlight Everybody''s feeling warm and bright",
+        "partTwo": "It''s such a fine and natural sight Everybody''s dancing in the moonlight",
+        "title": "DANCING IN THE MOONLIGHT",
+        "artist": "Toploader"
+    },
+    {
+        "": "",
+        "partOne": "And the Cats in the cradle and the silver spoon",
+        "partTwo": "Little boy blue and the man on the moon",
+        "title": "CATS IN THE CRADLE",
+        "artist": "Ugly Kid Joe"
+    },
+    {
+        "": "",
+        "partOne": "Alla vill till himmelen men få vill ju dö",
+        "partTwo": "Man vill kamma in vinningen, men sår inga frön",
+        "title": "ALLA VILL TILL HIMMELEN MEN INGEN VILL Dö",
+        "artist": "Timbuktu"
+    },
+    {
+        "": "",
+        "partOne": "Video killed the radio star Video killed the radio star",
+        "partTwo": "In my mind and in my car We can''t rewind we''ve gone too far",
+        "title": "VIDEO KILLED THE RADIO STAR",
+        "artist": "The Buggles"
+    },
+    {
+        "": "",
+        "partOne": "Cause I got a feeling That tonight''s gonna be a good night",
+        "partTwo": "That tonight''s gonna be a good night That tonight''s gonna be a good, good night",
+        "title": "I GOTTA FEELING",
+        "artist": "The Black Eyed Peas"
+    },
+    {
+        "": "",
+        "partOne": "Say my name Sun shines through the rain",
+        "partTwo": "A whole life so lonely And then come and ease the pain",
+        "title": "ETERNAL FLAME",
+        "artist": "The Bangles"
+    },
+    {
+        "": "",
+        "partOne": "Cause it takes a fool to remain sane Oh, it takes a fool to remain sane",
+        "partTwo": "Oh, it takes a fool to remain sane Oh, in this world all covered up in the shame",
+        "title": "IT TAKES A FOOL TO REMAIN SANE",
+        "artist": "The Ark"
+    },
+    {
+        "": "",
+        "partOne": "But I''m just a soul whose intentions are good",
+        "partTwo": "Oh Lord, please don''t let me be misunderstood",
+        "title": "DON''T LET ME BE MISUNDERSTOOD",
+        "artist": "The Animals"
+    },
+    {
+        "": "",
+        "partOne": "Sol,  vind och vatten",
+        "partTwo": "Höga berg och djupa hav",
+        "title": "SOL, VIND OCH VATTEN",
+        "artist": "Ted Gärdestad"
+    },
+    {
+        "": "",
+        "partOne": "Acting on your best behaviour Turn your back on mother nature",
+        "partTwo": "Everybody wants to rule the world",
+        "title": "EVERYBODY WANTS TO RULE THE WORLD",
+        "artist": "Tears For Fears"
+    },
+    {
+        "": "",
+        "partOne": "Tell it to my heart Tell me I''m the only one",
+        "partTwo": "Is this realy love or just a game",
+        "title": "TELL IT TO MY HEART",
+        "artist": "Taylor Dayne"
+    },
+    {
+        "": "",
+        "partOne": "It''s the eye of the tiger It''s the thirll of the fight",
+        "partTwo": "Rising up to the challenge of our rival And the last known survivor Stalks his prey in the night",
+        "title": "EYE OF THE TIGER",
+        "artist": "Survivor"
+    },
+    {
+        "": "",
+        "partOne": "When I was young , it seemed that life was so wonderful A miracle, oh it was beautiful, magical",
+        "partTwo": "And all the birds in the trees, well they''d be singing so happily Joyfully, playfully watching me",
+        "title": "THE LOGICAL SONG",
+        "artist": "Supertramp"
+    },
+    {
+        "": "",
+        "partOne": "Mama, just killed a man Put a gun against his head",
+        "partTwo": "Pulled my trigger Now he''s dead",
+        "title": "BOHEMIAN RHAPSODY",
+        "artist": "Queen"
+    },
+    {
+        "": "",
+        "partOne": "Mama, just killed a man Put a gun against his head",
+        "partTwo": "Pulled my trigger Now he''s dead",
+        "title": "BOHEMIAN RHAPSODY",
+        "artist": "Queen"
+    },
+    {
+        "": "",
+        "partOne": "Ain''t no sunshine when she''s gone It''s not warm when she''s away",
+        "partTwo": "Ain''t no sunshine when she''s gone She''s always gone too long anytime she goes away",
+        "title": "AIN''T NO SUNSHINE",
+        "artist": "Bill Withers"
+    },
+    {
+        "": "",
+        "partOne": "I''ve had the time of my life No, I never felt like this before",
+        "partTwo": "Yes, I swear it''s the truth And I owe it all to you",
+        "title": "(I''VE HAD) The TIME OF MY LIFE",
+        "artist": "Bill Medley & Jennifer Warness"
+    },
+    {
+        "": "",
+        "partOne": "Remember those walls I built? Well, baby they''re tumbling down",
+        "partTwo": "And they didn''t even put up a fight They didn''t even make a sound",
+        "title": "HALO",
+        "artist": "Beyonce"
+    },
+    {
+        "": "",
+        "partOne": "Turning and returning to some secret place inside",
+        "partTwo": "Watching in slow motion as you turn around and say Take my breath away",
+        "title": "TAKE MY BREATH AWAY",
+        "artist": "Berlin"
+    },
+    {
+        "": "",
+        "partOne": "It must have been love But it''s over now",
+        "partTwo": "It must have been good But I lost it somehow",
+        "title": "IT MUST HAVE BEEN LOVE",
+        "artist": "Roxette"
+    },
+    {
+        "": "",
+        "partOne": "I always feel like somebody''s watching me",
+        "partTwo": "And I have no privacy",
+        "title": "SOMEBODY''S WATCHING ME",
+        "artist": "Rockwell"
+    },
+    {
+        "": "",
+        "partOne": "I''m in the corner, watching you kiss her I''m right over here, why can''t you see me?",
+        "partTwo": "I''m giving it my all, but I''m not the girl you''re taking home I keep dancing on my own",
+        "title": "DANCING ON MY OWN",
+        "artist": "Robyn"
+    },
+    {
+        "": "",
+        "partOne": "Now that it''s raining more than ever Know that we''ll still have each other",
+        "partTwo": "You can stand under my umbrella You can stand under my umbrella (Ella, ella, eh, eh, eh)",
+        "title": "UMBRELLA",
+        "artist": "Rihanna"
+    },
+    {
+        "": "",
+        "partOne": "Never gonna give you up Never gonna let you down",
+        "partTwo": "Never gonna run around and desert you",
+        "title": "NEVER GONNA GIVE YOU UP",
+        "artist": "Rick Astley"
+    },
+    {
+        "": "",
+        "partOne": "If it hadn''t been for Cotton-Eyed Joe I''d been married long time ago",
+        "partTwo": "Where did you come from? Where did you go?",
+        "title": "COTTON EYE JOE",
+        "artist": "Rednex"
+    },
+    {
+        "": "",
+        "partOne": "I don''t ever wanna feel like I did that day",
+        "partTwo": "But take me to the place I love, take me all the way",
+        "title": "UNDER THE BRIDGE",
+        "artist": "Red Hot Chili Peppers"
+    },
+    {
+        "": "",
+        "partOne": "If there''s something strange In your neighborhood",
+        "partTwo": "Who you gonna call? Ghostbusters!",
+        "title": "GHOSTBUSTERS",
+        "artist": "Ray Parker, Jr."
+    },
+    {
+        "": "",
+        "partOne": "That''s me in the conrner That''s me in the spotlight",
+        "partTwo": "Losing my religion",
+        "title": "LOSING MY RELIGION",
+        "artist": "R.E.M"
+    },
+    {
+        "": "",
+        "partOne": "Cause baby, you''re a firework C''mon, show ''em what you''re worth",
+        "partTwo": "Make ''em go, \" Aah, aah,aah\" As you shoot across the sky-y-y",
+        "title": "FIREWORK",
+        "artist": "Katy Perry"
+    },
+    {
+        "": "",
+        "partOne": "Hela mitt liv har byggts upp av min mamma",
+        "partTwo": "Oo mamma, jag saknar dig så Oo mamma, jag saknar dig så",
+        "title": "MAMMA",
+        "artist": "Ken Ring feat. Uno Svenningsson"
+    },
+    {
+        "": "",
+        "partOne": "My name is Luka",
+        "partTwo": "I live on the second floor",
+        "title": "LUKA",
+        "artist": "Suzanne Vega"
+    },
+    {
+        "": "",
+        "partOne": "Now I know I''m being used",
+        "partTwo": "That''s okay, man, ''cause I like the abuse",
+        "title": "SELF ESTEEM",
+        "artist": "The Offspring"
+    },
+    {
+        "": "",
+        "partOne": "I see a red door and I want it painted black",
+        "partTwo": "No colours anymore, I want them to turn black",
+        "title": "PAINT IT BLACK",
+        "artist": "The Rolling Stones"
+    },
+    {
+        "": "",
+        "partOne": "And if a double-decker bus crashes into us",
+        "partTwo": "To die by your side is such a heavenly way to die",
+        "title": "THERE IS A LIGHT THAT NEVER GOES OUT (TAKE 1)",
+        "artist": "The Smiths"
+    },
+    {
+        "": "",
+        "partOne": "Wild thing You make my heart sing",
+        "partTwo": "You make everything groovy",
+        "title": "WILD THING",
+        "artist": "The Troggs"
+    },
+    {
+        "": "",
+        "partOne": "And say, people, they don''t understand your girlfriends, they can''t understand",
+        "partTwo": "Your grandsons, they won''t understand On top of this, I ain''t ever gonna understand",
+        "title": "LAST NITE",
+        "artist": "The strokes"
+    },
+    {
+        "": "",
+        "partOne": "Imagine me and you, I do I think about you day and night, it''s only right",
+        "partTwo": "To think about the girl you love and hold her tight So happy together",
+        "title": "HAPPY TOGETHER",
+        "artist": "The Turtles"
+    },
+    {
+        "": "",
+        "partOne": "Cause iit''s a bitter sweet symphony That''s life",
+        "partTwo": "Trying to make ends meet You''re a slave to money then you die",
+        "title": "BITTER SWEET SYMPHONY",
+        "artist": "The Verve"
+    },
+    {
+        "": "",
+        "partOne": "I''m gonna fight ''em off",
+        "partTwo": "A seven nation army couldn''t hold me back",
+        "title": "SEVEN NATION ARMY",
+        "artist": "The White Stripes"
+    },
+    {
+        "": "",
+        "partOne": "Darling, you got to let me know",
+        "partTwo": "Should I stay or should I go?",
+        "title": "SHOULD I STAY OR SHOULD I GO?",
+        "artist": "The Clash"
+    },
+    {
+        "": "",
+        "partOne": "But you see, it''s not me It''s not my family",
+        "partTwo": "In your head, in your head, they are fighting",
+        "title": "ZOMBIE",
+        "artist": "The Cranberries"
+    },
+    {
+        "": "",
+        "partOne": "I don''t care if Monday''s blue Tuesday''s grey and Wednesday too",
+        "partTwo": "Thursday I don''t care about you It''s Friday, I''m in love",
+        "title": "FRIDAY I''M IN LOVE",
+        "artist": "The Cure"
+    },
+    {
+        "": "",
+        "partOne": "I say, don''t you know? You say you don''t know",
+        "partTwo": "I say, take me out",
+        "title": "TAKE ME OUT",
+        "artist": "Franz Ferdinand"
+    },
+    {
+        "": "",
+        "partOne": "Oh! I want to dance with somebody I want to feel the heat with somebody",
+        "partTwo": "Yeah! I want to dance with somebody With somebody who loves me",
+        "title": "I WANNA DANCE WITH SOMEBODY (WHO LOVES ME)",
+        "artist": "Whitney Houston"
+    },
+    {
+        "": "",
+        "partOne": "And I find it kinda funny, I find it kinda sad",
+        "partTwo": "The dreams in which I''m dying are the best I''ve ever had",
+        "title": "MAD WORLD",
+        "artist": "Gary Jules feat. Michael Andrews"
+    },
+    {
+        "": "",
+        "partOne": "But you didn''t have to cut me off Make out like it never happened and that we were nothing",
+        "partTwo": "And I don''t even need your love But you treat me like a stranger and that feels so rough",
+        "title": "SOMEBODY THAT I USED TO KNOW",
+        "artist": "Gotye"
+    },
+    {
+        "": "",
+        "partOne": "Don''t push me, ''cause I''m close to the edge I''m trying not to lose my head",
+        "partTwo": "It''s like a jungle sometimes it makes me wonder how I keep from going under",
+        "title": "THE MESSAGE",
+        "artist": "Grandmaster Flash & The Furious Five"
+    },
+    {
+        "": "",
+        "partOne": "Take me to chruch I''ll worship like a dog at the shrine of your lies",
+        "partTwo": "I''ll tell you my sins and you can sharpen you knife",
+        "title": "TAKE ME TO CHRUCH",
+        "artist": "Hozier"
+    },
+    {
+        "": "",
+        "partOne": "Men fiskarna I haven Och fåglarna på taken",
+        "partTwo": "Människor I husen Tänder alla ljus",
+        "title": "FISKARNA I HAVEN",
+        "artist": "Idde Schultz"
+    },
+    {
+        "": "",
+        "partOne": "Sluta dröm om det ljuva livet (vi kommer aldrig va med om det)",
+        "partTwo": "Och be aldrig mer om ursäkt (för sakerna du aldrig gjorde)",
+        "title": "KOM IGEN LENA!",
+        "artist": "Håkan Hellström"
+    },
+    {
+        "": "",
+        "partOne": "Let it go, let it go Can''t hold it back anymore",
+        "partTwo": "Let it go, let it go Turn away and slam the door",
+        "title": "LET IT GO",
+        "artist": "Idina Menzel (Från Frost)"
+    },
+    {
+        "": "",
+        "partOne": "Country roads, take me home To the place I belong",
+        "partTwo": "West Virginia, mountain mama Take me home, country roads",
+        "title": "TAKE ME HOME, COUNTRY ROADS",
+        "artist": "John Denver"
+    },
+    {
+        "": "",
+        "partOne": "Biggie, Biggie, Biggie, can''t you see?",
+        "partTwo": "Sometimes your words just hypnotize me",
+        "title": "HYPNOTIZE",
+        "artist": "The Notorious B.I.G."
+    },
+    {
+        "": "",
+        "partOne": "There''s a limit to your love",
+        "partTwo": "Like a waterfall in slow motion",
+        "title": "LIMIT TO YOUR LOVE",
+        "artist": "James Blake"
+    },
+    {
+        "": "",
+        "partOne": "Bang bang into the room (I know  you want it)",
+        "partTwo": "Bang bang all over you (I''ll let you have it)",
+        "title": "BANG BANG",
+        "artist": "Jessie J feat. Ariana Grande & Nicki Minaj"
+    },
+    {
+        "": "",
+        "partOne": "I can see clearly now the rain is gone",
+        "partTwo": "I can see all obstacles in my way",
+        "title": "I CAN SEE CLEARLY NOW",
+        "artist": "Johnny Nash"
+    },
+    {
+        "": "",
+        "partOne": "But I won''t hesitate no more, no more",
+        "partTwo": "It cannot wait, I''m yours",
+        "title": "I''M YOURS",
+        "artist": "Jason Mraz"
+    },
+    {
+        "": "",
+        "partOne": "Vart Tog den söta lilla flickan vägen? Vart Tog den söta lilla flickan vägen? Vart Tog den söta lilla flickan vägen?",
+        "partTwo": "Ingen som vet, ingen som vet",
+        "title": "VART TOG DEN SöTA LILLA FLICKAN VäGEN?",
+        "artist": "Just D"
+    },
+    {
+        "": "",
+        "partOne": "I''m bringing sexy back (yeah)",
+        "partTwo": "Them other fuckers don''t know how to act (yeah)",
+        "title": "SEXYBACK",
+        "artist": "Justin Timberlake"
+    },
+    {
+        "": "",
+        "partOne": "And all my life, I prayed for someone like you",
+        "partTwo": "And I thank God that I, that I finally found you",
+        "title": "ALL MY LIFE",
+        "artist": "K-Ci & Jojo"
+    },
+    {
+        "": "",
+        "partOne": "And if I only could I''d make a deal with God And I''d get him to sweap our places",
+        "partTwo": "Be running up that road Be running up that hill Be running up that building",
+        "title": "RUNNING UP THAT HILL (A DEAL WITH GOD)",
+        "artist": "Kate Bush"
+    },
+    {
+        "": "",
+        "partOne": "Why do you have to go and make things so complicated?",
+        "partTwo": "I see the way you’re acting like you''re somebody else gets me frustrated",
+        "title": "COMPLICATED",
+        "artist": "Avril Lavigne"
+    },
+    {
+        "": "",
+        "partOne": "What you want Baby, I got it What you need",
+        "partTwo": "Do you know I got it? All I''m askin'' Is for a little respect when you get home",
+        "title": "RESPECT",
+        "artist": "Aretha Franklin"
+    },
+    {
+        "": "",
+        "partOne": "(Ooh, ooh, ooh)",
+        "partTwo": "I guess the change in my pocket wasn''t enough I''am like: \"fuck you,\" and fuck her, too",
+        "title": "FUCK YOU",
+        "artist": "Ceelo Green"
+    },
+    {
+        "": "",
+        "partOne": "I remember when I remember I remember When I lost my mind",
+        "partTwo": "There was something so pleasant about that place",
+        "title": "CRAZY",
+        "artist": "Gnaris Barkley"
+    },
+    {
+        "": "",
+        "partOne": "You don''t have to be rich to be my girl",
+        "partTwo": "You don''t have to be cool to rule my world",
+        "title": "KISS",
+        "artist": "Prince"
+    },
+    {
+        "": "",
+        "partOne": "Fångad av en stormvind, natt och dag Hä finns bara du och Jag",
+        "partTwo": "Och det ljus som himlen lämnat kvar",
+        "title": "FANGAD AV EN STORMVIND",
+        "artist": "Carola"
+    },
+    {
+        "": "",
+        "partOne": "Marry him, or marry me I''m the one that loves you, baby, can''t you see?",
+        "partTwo": "I ain''t got no future or family tree But I know what a prince and lover ought to be",
+        "title": "TWO PRINCES",
+        "artist": "Spin Doctors"
+    },
+    {
+        "": "",
+        "partOne": "I''m a Barbie girl, in the Barbie world Life in plastic, it’s fantastic",
+        "partTwo": "You can brush my hair, undress me everywhere imagination, life is your creation",
+        "title": "BARBIE GIRL",
+        "artist": "Aqua"
+    },
+    {
+        "": "",
+        "partOne": "För jag himlen runt hörnet En egen ängel I en säng",
+        "partTwo": "Som om himlens Alla små stjärnor sjÖng fÖr mig, sjÖng fÖr dig",
+        "title": "HIMLEN RUNT HÖRNET",
+        "artist": "Lisa Nilsson"
+    },
+    {
+        "": "",
+        "partOne": "Jolene , Jolene , Jolene , Jolene ,  I''m begging of you please don''t take my man",
+        "partTwo": "Jolene , Jolene , Jolene , Jolene , Please don''t take him just because you can",
+        "title": "JOLENE",
+        "artist": "Dolly Parton"
+    }
+]
